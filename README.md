@@ -6,3 +6,5 @@ The datapack uses music discs and some advancement magic to essentially hijack 1
 Unfortunately that does mean its only 18 id's to play with,
 
 Also this was made in the newest snapshot, using the new item_model component to change the way the custom item looks. It DOES NOT need to be. You can replicate this effect using resource packs. 
+
+Theres some example recipes to show how this could be used, the enchanted golden carrot being one of them. 
